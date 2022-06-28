@@ -1,6 +1,6 @@
 # NextLabs_Assignments:
 # PART1::
-Question 1.	Write a regex to extract all the numbers with orange color background from the below text in italics.http://localhost:8888/notebooks/Desktop/NEXTLABS/NEXTLABS_PART1_QUE_1(REGREX).ipynb
+Question 1.	Write a regex to extract all the numbers with orange color background from the below text in italics
 Question 2.	Here’s the list of reviews of Chrome apps - scraped from Playstore.
 Problem statement - There are times when a user writes Good, Nice App or any other positive text, in the review and gives 1-star rating. 
 **Your goal is to identify such ratings where review text is good, but rating is negative- so that the support team can point this to users. 
